@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.138.0.2:9200"
+  username: "ivyzhang333"
+  password: "LaiOfferWeiZhang666"
+
+gcs:
+  bucket: "weizhang-bucket-333"
+
+token:
+  secret: "secret"
